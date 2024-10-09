@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiderana19&label=Profile%20views&color=0e75b6&style=flat" alt="fiderana19" /> </p>
 <img src="https://raw.githubusercontent.com/fiderana19/fiderana19/output/snake.svg" alt="Snake animation" />
 
+###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiderana19" alt="fiderana19" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://fiderana-portfolio.vercel.app](https://fiderana-portfolio.vercel.app)
