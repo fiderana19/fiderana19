@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antsa Fiderana ANDRIAHERILANTO</h1>
 <h3 align="center">A passionate MERN Stack developper from Madagascar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fiderana19&label=Profile%20views&color=0e75b6&style=flat" alt="fiderana19" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiderana19" alt="fiderana19" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://fiderana-portfolio.vercel.app](https://fiderana-portfolio.vercel.app)
 
 - 📫 How to reach me **antsafider@gmail.com**
