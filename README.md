@@ -5,6 +5,7 @@
 
 - 📫 How to reach me **antsafider@gmail.com**
 
+[![An image of @fiderana19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fiderana19)](https://holopin.io/@fiderana19)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiderana19&show_icons=true&locale=en&layout=compact" alt="fiderana19" /></p>
 
