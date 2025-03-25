@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antsa Fiderana ANDRIAHERILANTO</h1>
-<h3 align="center">A passionate MERN Stack developper from Madagascar</h3>
+<h3 align="center">A passionate React-Nest Full Stack developper from Madagascar</h3>
 
 - 👨‍💻 All of my projects are available at [https://fiderana-portfolio.vercel.app](https://fiderana-portfolio.vercel.app)
 
