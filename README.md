@@ -1,3 +1,5 @@
+![Profile](https://github.com/fiderana19/fiderana19/blob/main/img/profile.jpg?raw=true)
+
 <h1 align="center">Hi 👋, I'm Antsa Fiderana ANDRIAHERILANTO</h1>
 <h3 align="center">A passionate React-Nest Full Stack developper from Madagascar</h3>
 
