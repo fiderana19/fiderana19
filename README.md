@@ -3,10 +3,7 @@
 <h1 align="left">Hi 👋, I'm Antsa Fiderana ANDRIAHERILANTO</h1>
 <h3 align="left">A passionate React-Nest Full Stack developper from Madagascar</h3>
 </p>
-
-<p width=400>
-![Profile](https://github.com/fiderana19/fiderana19/blob/main/img/profile.jpg?raw=true)
-</p>
+<img align="left" src="https://github.com/fiderana19/fiderana19/blob/main/img/profile.jpg?raw=true" alt="profile" width=200 />
 </p>
 
 - 👨‍💻 My personnal portfolio is available at [https://fiderana-portfolio.vercel.app](https://fiderana-portfolio.vercel.app)
